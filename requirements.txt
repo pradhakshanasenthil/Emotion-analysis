@@ -1,4 +1,4 @@
-tensorflow-cpu
+tensorflow==2.21.0
 scikit-learn
 nltk
 matplotlib
