@@ -1,6 +1,3 @@
-tensorflow==2.21.0
-scikit-learn
+tensorflow
 nltk
-matplotlib
-seaborn
 wordcloud
